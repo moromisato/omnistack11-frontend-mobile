@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "front_mobile.app"
-               BlueprintName = "front_mobile"
-               ReferencedContainer = "container:front_mobile.xcodeproj">
+               BuildableName = "Bethehero.app"
+               BlueprintName = "Bethehero"
+               ReferencedContainer = "container:Bethehero.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "front_mobileTests.xctest"
-               BlueprintName = "front_mobileTests"
-               ReferencedContainer = "container:front_mobile.xcodeproj">
+               BuildableName = "BetheheroTests.xctest"
+               BlueprintName = "BetheheroTests"
+               ReferencedContainer = "container:Bethehero.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "front_mobile.app"
-            BlueprintName = "front_mobile"
-            ReferencedContainer = "container:front_mobile.xcodeproj">
+            BuildableName = "Bethehero.app"
+            BlueprintName = "Bethehero"
+            ReferencedContainer = "container:Bethehero.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "front_mobile.app"
-            BlueprintName = "front_mobile"
-            ReferencedContainer = "container:front_mobile.xcodeproj">
+            BuildableName = "Bethehero.app"
+            BlueprintName = "Bethehero"
+            ReferencedContainer = "container:Bethehero.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
