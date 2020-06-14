@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Image, TouchableOpacity, Text, Linking } from 'react-native';
 import { useNavigation, useRoute } from '@react-navigation/native'
 import { LOGO } from '../../assets/allAssets'
+import { Icon } from 'react-native-elements'
 
 import styles from './styles';
 
@@ -29,11 +30,8 @@ export default function Detail() {
     <View style={ styles.container }>
      <View style={ styles.header }>
         <Image style={ styles.logoStyle } source={ LOGO } />
-    
-        <TouchableOpacity onPress={navigateBack}>
-          <Text>Voltar</Text>
-        </TouchableOpacity>
-      </View>
+        <Icon name='arrow-back' type='material' size={25} onPress={navigateBack}/>
+    </View>
 
       <View style={ styles.incident }>
       <Text style={ styles.incidentProperty }>ONG: </Text>
